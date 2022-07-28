@@ -1,0 +1,25 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2022-07-28T15:12:13Z",
+  "id": "202207LINEchatbot",
+  "duration": 0,
+  "title": "LINE公式アカウントとスプレッドシートで 一問一答チャットボットを作る",
+  "authors": "specialman9999",
+  "summary": "LINE公式アカウントとスプレッドシートで 一問一答チャットボットを作る",
+  "source": "1M_iKJnZ0I0UjKXSUZPT49kLuLQ0HhkrbvuRKqAkWRZY",
+  "theme": "web",
+  "status": [
+    "published"
+  ],
+  "category": [
+    "Web"
+  ],
+  "tags": [
+    "line",
+    "web"
+  ],
+  "url": "202207LINEchatbot"
+}
